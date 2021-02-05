@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, my name is FANE Kondjiri</h1>
-<h3 align="center">👨🏽‍🎓I am a Telecom, Networking and Computer Science Engineer</h3>
+<h1 align="left">Hi 👋, my name is FANE Kondjiri</h1>
+<h3 align="left">👨🏽‍🎓I am a Telecom, Networking and Computer Science Engineer</h3>
 
-- 📝 My Recent Projects [Transfer Learning for Image Classification](Transfer Learning for Image Classification)
+- 📝 My Recent Projects:   Transfer Learning for Image Classification
 
-- 📝 My Recent Projects [Satellite Images Segmentation and Classification using Deep Learning (CNN,VGG16,ResNet50,MobileNet](Satellite Images Segmentation and Classification using Deep Learning (CNN,VGG16,ResNet50,MobileNet)
+- 📝 My Recent Projects:   Satellite Images Segmentation and Classification using Deep Learning (CNN,VGG16,ResNet50,MobileNet
 
 - 💬 Get in touch **https://fane.netlify.app**
 
