@@ -12,5 +12,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [fane.netlify.app](https://fane.netlify.app)
 - 😄 Pronouns: 
 - ⚡ Hobbies: ⚽️ Football, 🎧 Listenning to Music, 📚Reading,✈️Travelling, 💻 Coding
+
+
 Languages and Tools:
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v4/javascript/javascript.svg" />
+
+https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png
