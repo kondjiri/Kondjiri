@@ -10,5 +10,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...[fane.netlify.app]
 - 😄 Pronouns: ...
-- ⚡ Hobbies: ...[⚽️ Football, 🎧 Listenning to Music, 📚Reading,✈️Travelling, 💻 Coding]
--->
+- ⚡ Hobbies: ...⚽️ Football, 🎧 Listenning to Music, 📚Reading,✈️Travelling, 💻 Coding
