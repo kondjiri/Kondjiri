@@ -10,6 +10,7 @@
 - 💬 Get in touch **https://fane.netlify.app**
 
 - 📫 How to reach me **kondjirif@gmail.com**
+- ⚡ Hobbies **⚽️ Football, 🎧 Listenning to Music, 📚Reading,✈️Travelling, 💻 Coding**
 - 🧭 Some of my References : 
 - **https://tensorflow.org**
 - **https://keras.io**,
@@ -24,7 +25,7 @@
 - Youtube: **Krish Naik**,
 - Youtube: **thenewboston**
 
-- ⚡ Hobbies **⚽️ Football, 🎧 Listenning to Music, 📚Reading,✈️Travelling, 💻 Coding**
+- **Stay Safe**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -40,3 +41,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kondjiri&show_icons=true&locale=en&layout=compact" alt="kondjiri" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kondjiri&show_icons=true&locale=en" alt="kondjiri" /></p>
+
