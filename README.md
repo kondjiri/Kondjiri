@@ -25,7 +25,7 @@
 - Youtube: **Krish Naik**,
 - Youtube: **thenewboston**
 
-- **Stay Safe**
+- <h2>Stay Safe</h2>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
