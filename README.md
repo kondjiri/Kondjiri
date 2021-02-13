@@ -11,18 +11,18 @@
 
 - 📫 How to reach me **kondjirif@gmail.com**
 - 🧭 Some of my References : 
-**https://tensorflow.org**
-**https://keras.io**,
-**https://machinelearningmastery.com**,
-**https://developers.google.com/**
-**Andrei NG**, 
-Youtube: **Machine Learnia**,
-Youtube: **sentdex**,
-**https://fr.coursera.org**,
-**https://datacamp.com**,
-Youtube: **DigitalSreeni**,
-Youtube: **Krish Naik**,
-Youtube: **thenewboston**
+- **https://tensorflow.org**
+- **https://keras.io**,
+- **https://machinelearningmastery.com**,
+- **https://developers.google.com/**
+- **Andrei NG**, 
+- Youtube: **Machine Learnia**,
+- Youtube: **sentdex**,
+- **https://fr.coursera.org**,
+- **https://datacamp.com**,
+- Youtube: **DigitalSreeni**,
+- Youtube: **Krish Naik**,
+- Youtube: **thenewboston**
 
 - ⚡ Hobbies **⚽️ Football, 🎧 Listenning to Music, 📚Reading,✈️Travelling, 💻 Coding**
 
