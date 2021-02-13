@@ -1,13 +1,28 @@
 <h1 align="left">Hi 👋, my name is FANE Kondjiri</h1>
 <h3 align="left">👨🏽‍🎓I am a Telecom, Networking and Computer Science Engineer</h3>
 
-- 📝 My Recent Projects:   Transfer Learning for Image Classification
+- 📝 My Recent Projects:   Deep learning and Satellite Image Segmentation (ResNet and U-Net)
 
-- 📝 My Recent Projects:   Satellite Images Segmentation and Classification using Deep Learning (CNN,VGG16,ResNet50,MobileNet
+- 📝 My Recent Projects:   Transfer Learning  and PCA for Satellite Image Classification
+
+- 📝 My Recent Projects:   Satellite Images Segmentation and Classification using Deep Learning (CNN,VGG16,ResNet50,MobileNet...)
 
 - 💬 Get in touch **https://fane.netlify.app**
 
 - 📫 How to reach me **kondjirif@gmail.com**
+- 🧭 Some of my References : 
+**https://tensorflow.org**
+**https://keras.io**,
+**https://machinelearningmastery.com**,
+**https://developers.google.com/**
+**Andrei NG**, 
+Youtube: **Machine Learnia**,
+Youtube: **sentdex**,
+**https://fr.coursera.org**,
+**https://datacamp.com**,
+Youtube: **DigitalSreeni**,
+Youtube: **Krish Naik**,
+Youtube: **thenewboston**
 
 - ⚡ Hobbies **⚽️ Football, 🎧 Listenning to Music, 📚Reading,✈️Travelling, 💻 Coding**
 
