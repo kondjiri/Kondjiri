@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I am FANE Kondjiri</h1>
+<h1 align="left">Hi 👋, I am Fané Kondjiri</h1>
 <h3 align="left">👨🏽‍🎓I am a Telecom, Networking and Computer Science Engineer</h3>
 
 - 📝 My Recent Projects:   Deep learning and Satellite Image Segmentation (ResNet and U-Net)
