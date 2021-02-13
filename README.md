@@ -16,11 +16,11 @@
 - **https://keras.io**,
 - **https://machinelearningmastery.com**,
 - **https://developers.google.com/**
+- **https://fr.coursera.org**,
+- **https://datacamp.com**,
 - **Andrei NG**, 
 - Youtube: **Machine Learnia**,
 - Youtube: **sentdex**,
-- **https://fr.coursera.org**,
-- **https://datacamp.com**,
 - Youtube: **DigitalSreeni**,
 - Youtube: **Krish Naik**,
 - Youtube: **thenewboston**
