@@ -18,7 +18,7 @@
 - **https://developers.google.com/**
 - **https://fr.coursera.org**,
 - **https://datacamp.com**,
-- **Andrei NG**, 
+- **Andrew NG**, 
 - Youtube: **Machine Learnia**,
 - Youtube: **sentdex**,
 - Youtube: **DigitalSreeni**,
