@@ -11,19 +11,6 @@
 
 - 📫 How to reach me **kondjirif@gmail.com**
 - ⚡ Hobbies **⚽️ Football, 🎧 Listenning to Music, 📚Reading,✈️Travelling, 💻 Coding**
-- 🧭 Some of my References : 
-- **https://tensorflow.org**
-- **https://keras.io**,
-- **https://machinelearningmastery.com**,
-- **https://developers.google.com/**
-- **https://fr.coursera.org**,
-- **https://datacamp.com**,
-- **Andrew NG**, 
-- Youtube: **Machine Learnia**,
-- Youtube: **sentdex**,
-- Youtube: **DigitalSreeni**,
-- Youtube: **Krish Naik**,
-- Youtube: **thenewboston**
 
 <h2>Stay Safe</h2>
 
