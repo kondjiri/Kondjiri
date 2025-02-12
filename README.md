@@ -9,6 +9,8 @@
 
 - 💬 Get in touch **https://fane.netlify.app**
 
+-  💬 Website **https://kondjiri.github.io**
+
 - 📫 How to reach me **kondjirif@gmail.com**
 - ⚡ Hobbies **⚽️ Football, 🎧 Listenning to Music, 📚Reading,✈️Travelling, 💻 Coding**
 
